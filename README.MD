@@ -2,8 +2,8 @@
 Testing of integration of Braintree
 
 # Create an env
-cd to project 
-run `python -m venv env`
+- cd to project 
+- run `python -m venv env`
 
 # Add .env 
 Add a .env file to myproject/ folder with these credentials
