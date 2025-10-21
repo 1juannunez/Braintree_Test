@@ -17,3 +17,7 @@ Add a .env file to myproject/ folder with these credentials
 - EMAIL=email
 - PHONE=phone
 - WEBSITE=website
+
+# Run program
+- run env file `env/scripts/activate`
+- run the program `python manage.py runserver`
